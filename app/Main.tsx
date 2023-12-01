@@ -89,3 +89,8 @@ export default function Home({ posts }) {
     </>
   )
 }
+
+//@ts-ignore
+global.performance = global.performance || {
+  now: () => new Date().getTime(),
+};
