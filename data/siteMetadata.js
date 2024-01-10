@@ -2,8 +2,8 @@
 const siteMetadata = {
   title: 'Next.js Starter Blog',
   author: 'vidhun',
-  headerTitle: 'Personal Blog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  headerTitle: 'I lived, Punnily Ever After ',
+  description: 'Where wit meets whimsy, one post at a time.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
