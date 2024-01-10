@@ -1,6 +1,6 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
+  title: 'Personal Blog',
   author: 'vidhun',
   headerTitle: 'I lived, Punnily Ever After ',
   description: 'Where wit meets whimsy, one post at a time.',
